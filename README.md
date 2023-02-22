@@ -1,6 +1,6 @@
 - 👋 Hey There! This is Aditya!
 - 👀 I’m an enthusiastic learner curious to explore new domains. 
-- :man_student: I’m currently pursuing MSc. Data Science at PSG College of Technology
+- :man_student: Currently pursuing MSc. Data Science at PSG College of Technology
 - :mailbox_with_mail: Reach me @: [adityameenakshi2002@gmail.com](mailto:adityameenakshi2002@gmail.com)
 - 💻Interests : Data Analysis and Visualization | Supervised and Unsupervised Learning
 
@@ -24,15 +24,25 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="c" />
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="c" />
   </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="c" />
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="c" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="c" />
   </a>
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="c" />
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="c" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="c" />
+  </a>
+  
 </p>
 
 <h3 align="left">Connect with me:</h3>
